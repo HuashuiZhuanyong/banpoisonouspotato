@@ -1,0 +1,6 @@
+name: Ban_poisonous_potato
+version: '${project.version}'
+main: tech.ydydreemurr.ban_poisonous_potato.Ban_poisonous_potato
+api-version: 1.18
+authors: [ ydy_dreemurr ]
+description: ban eating poisonous potato
